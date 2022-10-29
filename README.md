@@ -67,3 +67,8 @@
   - 支持ElasticSearch
   - 支持AMQP
 - 提高健壮性
+
+
+## License
+
+[Apache License 2.0](https://github.com/lcok/logging-spring-boot-starter/blob/main/LICENSE)
