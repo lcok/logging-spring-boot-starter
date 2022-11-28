@@ -1,7 +1,7 @@
-# ViousLogging
+# vious-logging-stater
 
 
-简单易用易扩展的aop日志spring-boot-starter组件
+vious-logging-stater是一个spring-boot-starter，它运行在spring环境中，其核心功能是根据注解的配置，动态生成日志记录，并支持将日志记录发送到任意终点（stdout、db、kafka等等），它很易用，且支持扩展
 
 
 
